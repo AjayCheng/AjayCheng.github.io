@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>AjayCheng&#39;s Blog</title>
-  
+  <icon>https://www.gravatar.com/avatar/a8ec3bf7de1d1a041aa5088ed2f7464a</icon>
   <subtitle>Ajay的代码旅行</subtitle>
   <link href="/atom.xml" rel="self"/>
   
@@ -11,7 +11,7 @@
   
   <author>
     <name>郑亚杰</name>
-    
+    <email>zhengyajieajay@outlook.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
